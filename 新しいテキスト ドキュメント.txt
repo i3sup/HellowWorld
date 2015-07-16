@@ -1,2 +1,2 @@
-Windows�p�̊O���G�f�B�^���R�~�b�g���O�Ɏg�p����ɂ́A�G�f�B�^�̋N���I�v�V�����𒲂ׂĂ����K�v������B
- �ۑ����̕����R�[�h�� UTF-8 �Ɏw�肷��ق��Agit ���G�f�B�^u�v���Z�X�̏I����҂Ă�悤�ɁA�^�u�E�B���h�E��q�v���Z�X���g��Ȃ��悤�ɂ��邽�߂��B
+﻿Windows用の外部エディタをコミットログに使用するには、エディタの起動オプションを調べておく必要がある。
+ 保存時の文字コードを UTF-8 に指定するほか、git がエディタuプロセスの終了を待てるように、タブウィンドウや子プロセスを使わないようにするためだ。
